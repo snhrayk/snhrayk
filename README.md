@@ -1,8 +1,9 @@
+<h1>WELCOME TO MY PAGE♡</h1>
 <a href="https://github.com/snhrayk/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=snhrayk&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=snhrayk&count_private=true&theme=panda" />
 </a>
 <a href="https://github.com/snhrayk/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snhrayk&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snhrayk&layout=compact&theme=panda" />
 </a>
 
 <!--
