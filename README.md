@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=snhrayk&count_private=true" />
 </a>
 <a href="https://github.com/snhrayk/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snhrayk" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snhrayk&layout=compact" />
 </a>
 
 <!--
