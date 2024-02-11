@@ -1,6 +1,7 @@
 # WELCOME TO MY PAGE <3
 <p>Hi, I'm Sunahara Ayaka.</p>
 
+
 ## 🌟 My Status  🌟
 <a href="https://github.com/snhrayk/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=snhrayk&count_private=true&theme=omni" />
@@ -10,7 +11,7 @@
 </a>
 
 ## 👩🏻‍💻 Now Training...
-<img src="https://skillicons.dev/icons?i=html,css,js,next,firebase" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,next,firebase" />
 <img src="https://skillicons.dev/icons?i=illustrator,photoshop,figma" />
 
 
