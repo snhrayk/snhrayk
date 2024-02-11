@@ -11,8 +11,9 @@
 </a>
 
 ## 👩🏻‍💻 Now Training...
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,next,firebase" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,typescript,next,firebase" />
 <img src="https://skillicons.dev/icons?i=illustrator,photoshop,figma" />
+
 
 
 <!--
