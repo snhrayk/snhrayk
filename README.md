@@ -1,4 +1,3 @@
-Welcome to my page!!!
 <a href="https://github.com/snhrayk/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=snhrayk&count_private=true" />
 </a>
