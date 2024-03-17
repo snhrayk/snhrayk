@@ -2,7 +2,7 @@
 <p>
   Hi! I'm Sunahara Ayaka.<br>
   I'm a vocational school student and currently studying WEB DESIGN.<br>
-  I want to be a frontend engineer who can also design.
+  I want to be a frontend engineer who can also design.<br>
   Now, I'm creating my portfolio site every day...
 </p>
 <p>★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ ゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★</p>
@@ -18,7 +18,7 @@
 
 ## 👩🏻‍💻 Now Training...
 <img src="https://skillicons.dev/icons?i=html,css,scss,js,typescript,react,next,firebase" />
-<img src="https://skillicons.dev/icons?i=ai,ps,figma,ae,pr" />
+<img src="https://skillicons.dev/icons?i=ai,ps,ae,pr,figma" />
 
 
 
