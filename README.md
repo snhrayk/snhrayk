@@ -2,8 +2,7 @@
 <p>
   Hi! I'm Sunahara Ayaka.<br>
   I'm a vocational school student and currently studying WEB DESIGN.<br>
-  I want to be a frontend engineer who can also design.<br>
-  Now, I'm creating my portfolio site every day...
+  I want to be a frontend engineer who can also design.
 </p>
 <p>★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ ゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★</p>
 
