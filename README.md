@@ -1,13 +1,13 @@
 # WELCOME TO MY GITHUB PAGE <3
 <p>
   Hi! I'm Sunahara Ayaka.<br>
-  I'm a vocational school student and currently studying WEB DESIGN.<br>
-  I want to be a design engineer.
+  I'm a vocational school student and currently studying web design.<br>
+  I WANT TO BE A DESIGN ENGINEER!!!
 </p>
 <p>★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ ゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★</p>
 
 
-## 🌟 My Status  🌟
+## 🌟 My Status 🌟
 <a href="https://github.com/snhrayk/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=snhrayk&count_private=true&theme=omni" />
 </a>
@@ -15,9 +15,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snhrayk&layout=compact&theme=omni" />
 </a>
 
+## 👍🏻 My Skills
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,ai,ps,figma" />
+
 ## 👩🏻‍💻 Now Training...
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,typescript,react,next,firebase,php,pug" />
-<img src="https://skillicons.dev/icons?i=ai,ps,figma" />
+<img src="https://skillicons.dev/icons?i=js,typescript,react,next,firebase,php,pug" />
+
 
 
 
