@@ -16,10 +16,10 @@
 </a>
 
 ## 👍🏻 My Skills
-<img src="https://skillicons.dev/icons?i=html,css,scss,js,ai,ps,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,pug,ai,ps,figma" />
 
 ## 👩🏻‍💻 Now Training...
-<img src="https://skillicons.dev/icons?i=js,typescript,react,next,firebase,php,pug" />
+<img src="https://skillicons.dev/icons?i=js,typescript,react,next,firebase,php" />
 
 <!--
 **snhrayk/snhrayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
