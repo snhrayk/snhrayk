@@ -2,7 +2,6 @@
 <p>
   Hi! I'm Sunahara Ayaka.<br>
   I'm a vocational school student and currently studying web design.<br>
-  I WANT TO BE A DESIGN ENGINEER!!!
 </p>
 <p>★゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★ ゜・。。・゜゜・。。・゜☆゜・。。・゜゜・。。・゜★</p>
 
