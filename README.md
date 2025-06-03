@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,scss,pug,js,typescript,react,next,ai,ps,figma" />
 
 ## 👩🏻‍💻 Now Training...
-<img src="https://skillicons.dev/icons?i=firebase,php,mysql" />
+<img src="https://skillicons.dev/icons?i=firebase,php,mysql,vue" />
 
 <!--
 **snhrayk/snhrayk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
